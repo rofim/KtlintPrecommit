@@ -1,0 +1,6 @@
+- id: ktlint
+  name: KTLint
+  description: Runs KTLint over Kotlin source files
+  entry: ./ktlint
+  language: script
+  types: [kotlin]
